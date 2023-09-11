@@ -5,5 +5,4 @@ public class diff {
         int b=20;
         System.out.println("Difference between a & b is: "+(a-b));
     }
-    
 }
